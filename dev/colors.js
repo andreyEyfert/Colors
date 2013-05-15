@@ -1,8 +1,8 @@
 /*
-Colors JS Library v1.2 (development)
-Copyright 2012 Matthew B. Jordan
-Licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. (http://creativecommons.org/licenses/by-sa/3.0/)
-http://matthewbjordan.me/colors
+Colors JS Library v1.2 RC1
+Copyright 2013 Matt Jordan
+Licensed under Creative Commons Attribution-ShareAlike 3.0 Unported. (http://creativecommons.org/licenses/by-sa/3.0/)
+http://matthewbj.github.com/Colors/
 */
 var Colors = {
     render: function (map, type) { // Internal Function
